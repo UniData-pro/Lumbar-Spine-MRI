@@ -1,0 +1,68 @@
+Nosology,ICD-10 code,Total number of MRI & CT studies
+Osteochondrosis of the spine,M42,"606,238.00"
+Lumbar disc extrusions,M51.2,"308,057.00"
+Thoracic disc extrusions,M51.2,"308,053.00"
+Lumbar disc protrusions,M51.3,"274,473.00"
+Thoracic disc protrusions,M51.3,"274,472.00"
+Spondyloarthrosis,M43.9,"124,528.00"
+Cervical disc extrusions,M50,"103,492.00"
+Cervical disc protrusions,M50.2,"102,433.00"
+Spondylosis,M47,"65,921.00"
+Osteoarthritis of the sacrococcygeal joint,M19,"64,128.00"
+Vertebral hemangioma,D18,"38,812.00"
+Sacroiliitis,M46.1,"15,305.00"
+Spondylolisthesis,M43.1,"12,367.00"
+Scoliosis,M41,"9,571.00"
+Fracture of lumbar vertebra,S32.0,"9,472.00"
+Kyphosis and lordosis,M40,"9,432.00"
+Anatomic narrowness of the spinal canal,Q77.8,"8,942.00"
+Spinal metastases,C79.5,"8,058.00"
+Fracture of thoracic vertebra,S22.0,"8,058.00"
+Schmorl's nodes,M51.4,"6,943.00"
+Acquired spinal canal stenosis (sagittal),M48.01,"6,474.00"
+Vertebral canal stenosis acquired (frontal),M48.02,"4,178.00"
+Osteoporosis without pathologic fracture,M81,"3,448.00"
+"Lumbarization, sacralization",Q76.41,"2,839.00"
+Spondylodiscitis,M46.4,"2,546.00"
+Hydromyelia,Q06.4,"2,530.00"
+Fracture of coccyx,S32.2,"2,291.00"
+Fracture of sacrum,S32.1,"2,199.00"
+Ankylosing spondylitis,M45,"1,928.00"
+"Ankylosing spondylitis, Bekhterev's disease",M45,"1,928.00"
+Synovitis of arch joints,-,"1,720.00"
+Osteoporosis with pathologic fracture,M80,"1,699.00"
+Arnold-Chiari syndrome,-,"1,474.00"
+Concrescence,Q76.4,"1,446.00"
+Paraarticular cysts,M71.03,"1,213.00"
+Scheiermann-Mau disease,M42.0,"1,211.00"
+Spondylitis,M46.2,"1,167.00"
+Epiduritis,G06.2,974.00
+Atlanto-axial subluxation,M43.2,970.00
+Spondylolysis,M43.0,870.00
+"Congenital anomalies of the spine (changes in the shape of vertebral bodies, etc.)",Q76,842.00
+Cervical spine fracture,S12,695.00
+Myeloma disease,C90.0,563.00
+Romanus type changes,M45.02,475.00
+Ankylosing hyperostosis Forestier,M48.1,466.00
+Arachnoiditis,G06.21,409.00
+Lumbar and pelvic muscle edema,G06.21,409.00
+Persistent apophysitis,M42.9,331.00
+Acquired concrescence,M43.2,275.00
+Teterring syndrome,G95.8,214.00
+Psoas abscess,G06.22,201.00
+Dislocation of cervical vertebra,S13.1,195.00
+Dislocation of sacroiliac joint and sacrococcygeal joint,S33.2,169.00
+Intravertebral abscess,G06.1,166.00
+Acetabular fracture,S32.4,132.00
+Aneurysmal bone cyst,-,109.00
+Fracture of iliac spine,S32.3,104.00
+Anderson type changes,M45.01,98.00
+Osteoid osteoma,D16.6,77.00
+Spina bifida,Q05,67.00
+Diastematomyelia,Q06.2,57.00
+Dislocation of lumbar vertebra,S33.1,29.00
+"Cervical radicular lesions, not elsewhere classified",G54.2,27.00
+Dislocation of thoracic vertebra,S23.1,20.00
+"Thoracic radicular lesions, not elsewhere classified",M54.3,15.00
+Kümmel's disease,S22.01,8.00
+Total,,"2,408,013.00"
