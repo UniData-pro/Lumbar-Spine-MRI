@@ -6,7 +6,7 @@ The dataset contains **MRI images** of the lumbar vertebras and lumbar discs, fo
 
 The dataset supports segmentation algorithms and classification models, aiming for accurate automatic segmentations and classification results. Deep learning techniques can be applied to medical images to assess spinal stenosis, detect degenerative changes, and segment spinal structures. The spinal pathology covered includes conditions like spinal cord compression, canal stenosis, and other lumbar spinal disorders. The dataset also includes sagittal views and axial views, making it suitable for machine learning and medical diagnosis tasks.
 
-# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/spine-mri-image-dicom/?utm_source=github&utm_medium=cpc&utm_campaign=lumbar-spine) to discuss your requirements and pricing options.
+## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/spine-mri-image-dicom/?utm_source=github&utm_medium=cpc&utm_campaign=lumbar-spine) to discuss your requirements and pricing options.
 
 ## Content
 The dataset includes:
@@ -28,4 +28,4 @@ The dataset includes:
 
 *This multi-center lumbar dataset is invaluable for exploring disc disease, back pains, and degenerative changes, offering rich diagnostic imaging data and performance values for classification models and segmentation challenges in spinal pathology analysis.*
 
-# 🌐 [UniData](https://unidata.pro/datasets/spine-mri-image-dicom/?utm_source=github&utm_medium=cpc&utm_campaign=lumbar-spine) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+## 🌐 [UniData](https://unidata.pro/datasets/spine-mri-image-dicom/?utm_source=github&utm_medium=cpc&utm_campaign=lumbar-spine) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
